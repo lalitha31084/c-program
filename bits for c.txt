@@ -1,0 +1,2240 @@
+1. which is a first commericial computer in the world?
+   a)ENIAC b)EDVIC c)ASCII d)UNIVAC
+2. ENIAC Stands for 
+   a)Electronic Numerical Integrater And Calculator.
+   b)Electronic Numerical Integrater And Computer.
+   c)Electronic number identifier And Circular
+   d)none of the above.
+1. Who is the father of C language?
+a) Steve Jobs
+b) James Gosling
+c) Dennis Ritchie
+d) Rasmus Lerdorf
+View Answer
+
+Answer: c
+Explanation: Dennis Ritchie is the father of C Programming Language. C programming language was developed in 1972 at American Telephone & Telegraph Bell Laboratories of USA.
+2. Which of the following is not a valid C variable name?
+a) int number;
+b) float rate;
+c) int variable_count;
+d) int $main;
+View Answer
+Answer: d
+Explanation: Since only underscore and no other special character is allowed in a variable name, it results in an error.
+3. All keywords in C are in ____________
+a) LowerCase letters
+b) UpperCase letters
+c) CamelCase letters
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: None.
+4. Which of the following is true for variable names in C?
+a) They can contain alphanumeric characters as well as special characters
+b) It is not an error to declare a variable to be one of the keywords(like goto, static)
+c) Variable names cannot start with a digit
+d) Variable can be of any length
+View Answer
+Answer: c
+Explanation: According to the syntax for C variable name, it cannot start with a digit.
+5. Which is valid C expression?
+a) int my_num = 100,000;
+b) int my_num = 100000;
+c) int my num = 1000;
+d) int $my_num = 10000;
+View Answer
+Answer: b
+Explanation: Space, comma and $ cannot be used in a variable name.
+6. Which of the following cannot be a variable name in C?
+a) volatile
+b) true
+c) friend
+d) export
+View Answer
+Answer: a
+7. What is short int in C programming?
+a) The basic data type of C
+b) Qualifier
+c) Short is the qualifier and int is the basic data type
+d) All of the mentioned
+Answer: c
+Explanation: None.
+8. Which of the following declaration is not supported by C language?
+a) String str;
+b) char *str;
+c) float str = 3e2;
+d) Both “String str;” and “float str = 3e2;”
+Answer: a
+Explanation: It is legal in Java, but not in C language.
+9. Which keyword is used to prevent any changes in the variable within a C program?
+a) immutable
+b) mutable
+c) const
+d) volatile
+Answer: c
+Explanation: const is a keyword constant in C program.
+10. What is the result of logical or relational expression in C?
+a) True or False
+b) 0 or 1
+c) 0 if an expression is false and any positive number if an expression is true
+d) None of the mentioned
+Answer: b
+Explanation: None.
+11. Which of the following typecasting is accepted by C language?
+a) Widening conversions
+b) Narrowing conversions
+c) Widening & Narrowing conversions
+d) None of the mentioned
+Answer: c
+Explanation: None.
+12. Where in C the order of precedence of operators do not exist?
+a) Within conditional statements, if, else
+b) Within while, do-while
+c) Within a macro definition
+d) None of the mentioned
+Answer: d
+Explanation: None.
+13. Which of the following is NOT possible with any 2 operators in C?
+a) Different precedence, same associativity
+b) Different precedence, different associativity
+c) Same precedence, different associativity
+d) All of the mentioned
+Answer: c
+Explanation: None.
+14. What is an example of iteration in C?
+a) for
+b) while
+c) do-while
+d) all of the mentioned
+Answer: d
+Explanation: None.
+15. Functions can return enumeration constants in C?
+a) true
+b) false
+c) depends on the compiler
+d) depends on the standard
+Answer: a
+Explanation: None.
+16. Functions in C Language are always _________
+a) Internal
+b) External
+c) Both Internal and External
+d) External and Internal are not valid terms for functions
+Answer: b
+Explanation: None.
+17. Which of following is not accepted in C?
+a) static a = 10; //static as
+b) static int func (int); //parameter as static
+c) static static int a; //a static variable prefixed with static
+d) all of the mentioned
+Answer: c
+Explanation: None.
+18. Property which allows to produce different executable for different platforms in C is called?
+a) File inclusion
+b) Selective inclusion
+c) Conditional compilation
+d) Recursive macros
+Answer: c
+Explanation: Conditional compilation is the preprocessor facility to produce a different executable.
+19. What is #include <stdio.h>?
+a) Preprocessor directive
+b) Inclusion directive
+c) File inclusion directive
+d) None of the mentioned
+Answer: a
+Explanation: None.
+20. C preprocessors can have compiler specific features.
+a) True
+b) False
+c) Depends on the standard
+d) Depends on the platform
+Answer: a
+Explanation: #pragma is compiler specific feature.
+21. Which of the following are C preprocessors?
+a) #ifdef
+b) #define
+c) #endif
+d) all of the mentioned
+View Answer
+
+Answer: d
+Explanation: None.
+22. The C-preprocessors are specified with _________ symbol.
+a) #
+b) $
+c) ” ”
+d) &
+View Answer
+
+Answer: a
+Explanation: The C-preprocessors are specified with # symbol.
+23. How is search done in #include and #include “somelibrary.h” according to C standard?
+a) When former is used, current directory is searched and when latter is used, standard directory is searched
+b) When former is used, standard directory is searched and when latter is used, current directory is searched
+c) When former is used, search is done in implementation defined manner and when latter is used, current directory is searched
+d) For both, search for ‘somelibrary’ is done in implementation-defined places
+View Answer
+
+Answer: b
+Explanation: None.
+24. How many number of pointer (*) does C have against a pointer variable declaration?
+a) 7
+b) 127
+c) 255
+d) No limits
+View Answer
+
+Answer: d
+Explanation: None.
+25. Which of the following is not possible statically in C language?
+a) Jagged Array
+b) Rectangular Array
+c) Cuboidal Array
+d) Multidimensional Array
+View Answer
+
+Answer: a
+Explanation: None.
+26. Which of the following return-type cannot be used for a function in C?
+a) char *
+b) struct
+c) void
+d) none of the mentioned
+View Answer
+
+Answer: d
+Explanation: None.
+27. The standard header _______ is used for variable list arguments (…) in C.
+a) <stdio.h >
+b) <stdlib.h>
+c) <math.h>
+d) <stdarg.h>
+View Answer
+
+Answer: d
+Explanation: None.
+28. When a C program is started, O.S environment is responsible for opening file and providing pointer for that file?
+a) Standard input
+b) Standard output
+c) Standard error
+d) All of the mentioned
+View Answer
+
+Answer: d
+Explanation: None.
+29. In C language, FILE is of which data type?
+a) int
+b) char *
+c) struct
+d) None of the mentioned
+View Answer
+
+Answer: c
+Explanation: None.
+30. What is the sizeof(char) in a 32-bit C compiler?
+a) 1 bit
+b) 2 bits
+c) 1 Byte
+d) 2 Bytes
+View Answer
+
+Answer: c
+Explanation: None.
+31. Which of the following is not an operator in C?
+a) ,
+b) sizeof()
+c) ~
+d) None of the mentioned
+View Answer
+
+Answer: d
+Explanation: None.
+32. scanf() is a predefined function in______header file.
+a) stdlib. h
+b) ctype. h
+c) stdio. h
+d) stdarg. h
+View Answer
+
+Answer: c
+Explanation: scanf() is a predefined function in "stdio.h" header file.printf and scanf() carry out input and output functions in C. These functions statements are present in the header file stdio.h.
+33. What is meant by ‘a’ in the following C operation?
+
+fp = fopen("Random.txt", "a");
+a) Attach
+b) Append
+c) Apprehend
+d) Add
+View Answer
+
+Answer: b
+Explanation: None.
+34. What will be the output of the following C code?
+
+    #include <stdio.h>
+    int main()
+    {
+        int y = 10000;
+        int y = 34;
+        printf("Hello World! %d\n", y);
+        return 0;
+    }
+a) Compile time error
+b) Hello World! 34
+c) Hello World! 1000
+d) Hello World! followed by a junk value
+View Answer
+
+Answer: a
+Explanation: Since y is already defined, redefining it results in an error.
+Output:
+$ cc pgm2.c
+pgm2.c: In function ‘main’:
+pgm2.c:5: error: redefinition of ‘y’
+pgm2.c:4: note: previous definition of ‘y’ was here
+35. What will happen if the following C code is executed?
+
+    #include <stdio.h>
+    int main()
+    {
+        int main = 3;
+        printf("%d", main);
+        return 0;
+    }
+a) It will cause a compile-time error
+b) It will cause a run-time error
+c) It will run without any error and prints 3
+d) It will experience infinite looping
+View Answer
+
+Answer: c
+Explanation: A C program can have same function name and same variable name.
+$ cc pgm3.c
+$ a.out
+3
+36. What will be the output of the following C code?
+
+    #include  <stdio.h>
+    int main()
+    {
+       signed char chr;
+       chr = 128;
+       printf("%d\n", chr);
+       return 0;
+    }
+a) 128
+b) -128
+c) Depends on the compiler
+d) None of the mentioned
+View Answer
+
+Answer: b
+Explanation: The range of signed character is from -128 to +127. Since we are assigning a value of 128 to the variable ‘chr’, the result will be negative. 128 in binary is represented as “1000 0000” for character datatype. As you can see that the sign bit is set to 1, followed by 7 zeros (0), its final decimal value will be -128 (negative 128).
+Output:
+$ cc pgm2.c
+$ a.out
+-128
+37. What will be the output of the following C code on a 64 bit machine?
+
+    #include <stdio.h>
+    union Sti
+    {
+        int nu;
+        char m;
+    };
+    int main()
+    {
+        union Sti s;
+        printf("%d", sizeof(s));
+        return 0;
+    }
+a) 8
+b) 5
+c) 9
+d) 4
+View Answer
+
+Answer: d
+Explanation: Since the size of a union is the size of its maximum data type, here int is the largest data type. Hence the size of the union is 4.
+Output:
+$ cc pgm7.c
+$ a.out
+4
+38. What will be the output of the following C function?
+
+    #include <stdio.h>
+    enum birds {SPARROW, PEACOCK, PARROT};
+    enum animals {TIGER = 8, LION, RABBIT, ZEBRA};
+    int main()
+    {
+        enum birds m = TIGER;
+        int k;
+        k = m;
+        printf("%d\n", k);
+        return 0;
+    }
+a) 0
+b) Compile time error
+c) 1
+d) 8
+View Answer
+
+Answer: d
+Explanation: m is an integer constant, hence it is compatible.
+Output:
+$ cc pgm5.c
+$ a.out
+8
+39. What will be the output of the following C code?
+
+    #include <stdio.h>
+    int const print()
+    {
+        printf("Sanfoundry.com");
+        return 0;
+    }
+    void main()
+    {
+        print();
+    }
+a) Error because function name cannot be preceded by const
+b) Sanfoundry.com
+c) Sanfoundry.com is printed infinite times
+d) Blank screen, no output
+View Answer
+
+Answer: b
+Explanation: None.
+Output:
+$ cc pgm13.c
+$ a.out
+Sanfoundry.com
+40. Will the following C code compile without any error?
+
+    #include <stdio.h>
+    int main()
+    {
+        for (int k = 0; k < 10; k++);
+            return 0;
+    }
+a) Yes
+b) No
+c) Depends on the C standard implemented by compilers
+d) Error
+View Answer
+
+Answer: c
+Explanation: Compilers implementing C90 do not allow this, but compilers implementing C99 allow it.
+Output:
+$ cc pgm4.c
+pgm4.c: In function ‘main’:
+pgm4.c:4: error: ‘for’ loop initial declarations are only allowed in C99 mode
+pgm4.c:4: note: use option -std=c99 or -std=gnu99 to compile your code
+41. What will be the final value of x in the following C code?
+
+    #include <stdio.h>
+    void main()
+    {
+        int x = 5 * 9 / 3 + 9;
+    }
+a) 3.75
+b) Depends on compiler
+c) 24
+d) 3
+View Answer
+
+Answer: c
+Explanation: None.
+42. What will be the output of the following C code? (Initial values: x= 7, y = 8)
+
+    #include <stdio.h>
+    void main()
+    {
+        float x;
+        int y;
+        printf("enter two numbers \n");
+        scanf("%f %f", &x, &y);
+        printf("%f, %d", x, y);
+    }
+a) 7.000000, 7
+b) Run time error
+c) 7.000000, junk
+d) Varies
+View Answer
+
+Answer: c
+Explanation: None.
+43. What will be the output of the following C code considering the size of a short int is 2, char is 1 and int is 4 bytes?
+
+    #include <stdio.h>
+    int main()
+    {
+        short int i = 20;
+        char c = 97;
+        printf("%d, %d, %d\n", sizeof(i), sizeof(c), sizeof(c + i));
+        return 0;
+    }
+a) 2, 1, 2
+b) 2, 1, 1
+c) 2, 1, 4
+d) 2, 2, 8
+View Answer
+
+Answer: c
+Explanation: None.
+44. What is the difference between the following 2 C codes?
+
+    #include <stdio.h> //Program 1
+    int main()
+    {
+        int d, a = 1, b = 2;
+        d =  a++ + ++b;
+        printf("%d %d %d", d, a, b);
+    }
+    #include <stdio.h> //Program 2
+    int main()
+    {
+        int d, a = 1, b = 2;
+        d =  a++ +++b;
+        printf("%d %d %d", d, a, b);
+    }
+a) No difference as space doesn’t make any difference, values of a, b, d are same in both the case
+b) Space does make a difference, values of a, b, d are different
+c) Program 1 has syntax error, program 2 is not
+d) Program 2 has syntax error, program 1 is not
+View Answer
+
+Answer: d
+Explanation: None.
+45. What will be the output of the following C code snippet?
+
+    #include <stdio.h>
+    void main()
+    {
+        1 < 2 ? return 1: return 2;
+    }
+a) returns 1
+b) returns 2
+c) Varies
+d) Compile time error
+View Answer
+
+Answer: d
+Explanation: None.
+46. What will be the value of the following assignment expression?
+
+ (x = foo())!= 1 considering foo() returns 2
+a) 2
+b) True
+c) 1
+d) 0
+View Answer
+
+Answer: a
+Explanation: None.
+47. What will be the output of the following C function?
+
+    #include <stdio.h>
+    void reverse(int i);
+    int main()
+    {
+        reverse(1);
+    }
+    void reverse(int i)
+    {
+        if (i > 5)
+            return ;
+        printf("%d ", i);
+        return reverse((i++, i));
+    }
+a) 1 2 3 4 5
+b) Segmentation fault
+c) Compilation error
+d) Undefined behaviour
+View Answer
+
+Answer: a
+Explanation: None.
+48. What will be the final values of i and j in the following C code?
+
+#include <stdio.h>
+int x = 0;
+int f()
+{
+    if (x == 0)
+        return x + 1;
+    else
+        return x - 1;
+}
+int g()
+{
+    return x++;
+}
+int main()
+{
+    int i = (f() + g()) | g(); //bitwise or
+    int j = g() | (f() + g()); //bitwise or
+}
+a) i value is 1 and j value is 1
+b) i value is 0 and j value is 0
+c) i value is 1 and j value is undefined
+d) i and j value are undefined
+View Answer
+
+Answer: c
+Explanation: None.
+49. Comment on the following C statement.
+
+   n = 1;
+   printf("%d, %dn", 3*n, n++);
+a) Output will be 3, 2
+b) Output will be 3, 1
+c) Output will be 6, 1
+d) Output is compiler dependent
+View Answer
+
+Answer: d
+Explanation: None.
+50. How many times i value is checked in the following C program?
+
+    #include <stdio.h>
+    int main()
+    {
+        int i = 0;
+        while (i < 3)
+            i++;
+        printf("In while loop\n");
+    }
+a) 2
+b) 3
+c) 4
+d) 1
+View Answer
+
+Answer: c
+Explanation: None.
+51. What will be the output of the following C code?
+
+     #include <stdio.h>
+    int main()
+    {
+        int i = 0;
+        do
+        {
+            i++;
+            if (i == 2)
+                continue;
+                printf("In while loop ");
+        } while (i < 2);
+        printf("%d\n", i);
+    }
+a) In while loop 2
+b) In while loop in while loop 3
+c) In while loop 3
+d) Infinite loop
+View Answer
+
+Answer: a
+Explanation: None.
+52. What will be the data type returned for the following C function?
+
+    #include <stdio.h>
+    int func()
+    {
+        return (double)(char)5.0;
+    }
+a) char
+b) int
+c) double
+d) multiple type-casting in return is illegal
+View Answer
+
+Answer: b
+Explanation: None.
+53. What is the problem in the following C declarations?
+
+   int func(int);
+   double func(int);
+   int func(float);
+a) A function with same name cannot have different signatures
+b) A function with same name cannot have different return types
+c) A function with same name cannot have different number of parameters
+d) All of the mentioned
+View Answer
+
+Answer: d
+Explanation: None.
+54. Which option should be selected to work the following C expression?
+
+string p = "HELLO";
+a) typedef char [] string;
+b) typedef char *string;
+c) typedef char [] string; and typedef char *string;
+d) Such expression cannot be generated in C
+View Answer
+
+Answer: b
+Explanation: None.
+55. What is the meaning of the following C statement?
+
+ printf(“%10s”, state); 
+a) 10 spaces before the string state is printed
+b) Print empty spaces if the string state is less than 10 characters
+c) Print the last 10 characters of the string
+d) None of the mentioned
+View Answer
+
+Answer: b
+Explanation: None.
+56. What are the elements present in the array of the following C code?
+
+int array[5] = {5};
+a) 5, 5, 5, 5, 5
+b) 5, 0, 0, 0, 0
+c) 5, (garbage), (garbage), (garbage), (garbage)
+d) (garbage), (garbage), (garbage), (garbage), 5
+View Answer
+
+Answer: b
+Explanation: None.
+57. What will be the output of the following C function when EOF returns?
+
+   int fputs(char *line, FILE *fp)
+a) ‘ ’ character of array line is encountered
+b) ‘n’ character in array line is encountered
+c) ‘t’ character in array line is encountered
+d) When an error occurs
+View Answer
+
+Answer: d
+Explanation: None.
+58. Which part of the program address space is p stored in the following C code?
+
+    #include <stdio.h>
+    int *p;
+    int main()
+    {
+        int i = 0;
+        p = &i;
+        return 0;
+    }
+a) Code/text segment
+b) Data segment
+c) Bss segment
+d) Stack
+View Answer
+
+Answer: c
+Explanation: None.
+59. Which of the following sequences are unaccepted in C language?
+a)
+
+   #if
+   #else
+   #endif
+b)
+
+   #if
+   #elif
+   #endif
+c)
+
+   #if
+   #if
+   #endif
+d)
+
+   #if
+   #undef
+   #endif
+View Answer
+Answer: c
+Explanation: None.
+ 
+ 
+59. Comment on the output of following C code.
+
+    #include <stdio.h>
+    main()
+    {
+        char *p = 0;
+        *p = 'a';
+        printf("value in pointer p is %c\n", *p);
+    }
+a) It will print a
+b) It will print 0
+c) Compile time error
+d) Run time error
+View Answer
+
+Answer:d
+Output:
+$ cc pgm.c
+$ a.out
+Segmentation fault (core dumped)
+60. What is the output of this C code?
+
+   #include <stdio.h>
+   main()
+   {
+       if (sizeof(int) > -1)
+           printf("True");
+       else
+           printf("False");
+   }
+a) True
+b) False
+View Answer
+
+Answer:b
+Output:
+$ cc pgm.c
+$ a.out
+False
+61. What is the output of this C code?
+
+    #include <stdio.h>
+    main()
+    {
+        char *p = "Sanfoundry C-Test";
+        p[0] = 'a';
+        p[1] = 'b';
+        printf("%s", p);
+    }
+a) abnfoundry C-Test
+b) Sanfoundry C-Test
+c) Compile time error
+d) Run time error
+View Answer
+
+Answer:d
+Output:
+$ cc pgm.c
+$ a.out
+Segmentation fault (core dumped)
+62. What is the output of this C code?
+
+    #include <stdio.h>
+    int main()
+    {
+        float f = 0.1;
+        if (f == 0.1)
+            printf("True");
+        else
+            printf("False");
+    }
+a) True
+b) False
+View Answer
+
+Answer: b
+Output:
+$ cc pgm.c
+$ a.out
+False
+63. What is the output of this C code?
+
+    #include <stdio.h>
+    main()
+    {
+        int n = 0, m = 0;
+        if (n > 0)
+            if (m > 0)
+                printf("True");
+        else 
+            printf("False");
+    }
+a) True
+b) False
+c) No Output will be printed
+d) Run Time Error
+View Answer
+
+Answer:c
+C Basics MCQs
+1. C language was developed by ___.
+
+Dennis Rechard
+Dennis M. Ritchie
+Bjarne Stroustrup
+Anders Hejlsberg
+Answer: B) Dennis M. Ritchie
+
+Explanation:
+
+C programming language was developed by an American computer scientist Dennis M. Ritchie at Bell Laboratories (formerly AT&T Bell Laboratories).
+
+2. In which year was C language developed?
+
+1962
+1978
+1979
+1972
+Answer: D) 1972
+
+Explanation:
+
+C programming language was developed by Dennis Ritchie at Bell Laboratories in 1972.
+
+3. C language is a successor to which language?
+
+Basic
+Cobol
+C++
+B
+Answer: D) B
+
+Explanation:
+
+C programming language is a successor to the programming language B.
+
+4. C is a ___.
+
+Low level language
+High level language
+Medium level language
+None of the above
+Answer: C) Medium level language
+
+Explanation:
+
+C is a medium-level language because it contains the features of low-level language as well as high-level language.
+
+5. How many keywords are there in C language?
+
+32
+33
+64
+18
+Answer: A) 32
+
+Explanation:
+
+C language has only 32 keywords.
+
+6. C language is a ___.
+
+Procedural oriented programming language
+General purpose programming language
+Structured programming
+All of the above
+Answer: D) All of the above
+
+Explanation:
+
+C programming language is a general-purpose, procedural computer programming language that supports structured programming also.
+
+7. Which is not a valid keyword in C language?
+
+for
+while
+do-while
+switch
+Answer: C) do-while
+
+Explanation:
+
+do-while is not a valid keyword in the C programming language. It's a control statement. 'do' and 'while' are the separate keywords. The rest of all 'for', 'while', and 'switch' are the valid keywords in C.
+
+8. What is an identifier in C language?
+
+An identifier is a combination of alphanumeric characters used for conditional and control statements
+An identifier is a combination of alphanumeric characters used for any variable, function, label name
+Both A and B
+None of the above
+Answer: B) An identifier is a combination of alphanumeric characters used for any variable, function, label name
+
+Explanation:
+
+An identifier is a combination of alphanumeric characters used for any variable, function, label name. An identifier is a name that is used to identify the variables/ constants, functions, arrays, label name, and user-defined data.
+
+9. A C-style comment, simply surround the text with ___.
+
+/* and */
+// and //
+//
+/** and **/
+Answer: A) /* and */
+
+Explanation:
+
+A C-style comment, simply surround the text with /* and */.
+
+10. Can we place comments between the statement to comments a part of the code?
+
+Yes
+No
+Answer: A) Yes
+
+Explanation:
+
+Yes, we can place comments between the statement to comments a part of the code.
+
+Example:
+
+printf(/*"Hello World"*/ "Hey, how are you?");
+11. ___ is an informal name for ISO/IEC 9899:1999, a past version of the C programming language standard?
+
+C
+C++
+C89
+C99
+Answer: D) C99
+
+Explanation:
+
+C99 is an informal name for ISO/IEC 9899:1999, a past version of the C programming language standard.
+
+12. In which version of C language, the C++ Style comment (//) are introduced?
+
+C17
+C18
+C89
+C99
+Answer: D) C99
+
+Explanation:
+
+C language version C99 introduced C++ style comment (//), they can be used to comment a single line.
+
+13. The C source file is processed by the ___.
+
+Interpreter
+Compiler
+Both Interpreter and Compiler
+Assembler
+Answer: B) Compiler
+
+Explanation:
+
+The C source file is processed by the compiler.
+
+14. How many whitespace characters are allowed in C language?
+
+2
+3
+4
+5
+Answer: D) 5
+
+Explanation:
+
+There are 5 whitespace characters are allowed in C language, they are:
+
+Space
+Horizontal tab
+Vertical tab
+Form feed
+New-line
+15. How many punctuation characters are allowed in C language?
+
+29
+30
+31
+32
+Answer: A) 29
+
+Explanation:
+
+There are 29 punctuation characters are allowed in C language, they are:
+
+_ { } [ ] # ( ) < > % : ; . ? * + - / ^ & | ~ ! = , \ " '
+16. What is the extension of a C language source file?
+
+.c
+.cpp
+.c99
+.h
+Answer: A) .c
+
+Explanation:
+
+The extension of a C language source file is ".c".
+
+17. What is the extension of a C language header file?
+
+.c
+.cpp
+.c99
+.h
+Answer: D) .h
+
+Explanation:
+
+The extension of a C language source file is ".h".
+
+18. To develop which operating, C language was invented?
+
+Linux
+Unix
+Android
+Mac
+Answer: B) Unix
+
+Explanation:
+
+C language was invented to develop Unix operating system.
+
+19. Does C language support object-oriented approach?
+
+Yes
+No
+Answer: B) No
+
+Explanation:
+
+C language does not support object-oriented approach.
+
+20. Which is/are the disadvantage(s) of C language?
+
+No Garbage Collection
+Inefficient Memory Management
+Low level of abstraction
+Lack of Object Orientation
+All of the above
+Answer: E) All of the above
+
+Explanation:
+
+The main disadvantages of C language are:
+
+No Garbage Collection
+Inefficient Memory Management
+Low level of abstraction
+Lack of Object Orientation
+2) C Data Types, Operators and Expressions MCQs
+21. Which are the fundamental data types in C?
+
+char
+int
+float
+All of the above
+Answer: D) All of the above
+
+Explanation:
+
+The fundamental / basic data types in C language:
+
+char
+int
+float
+22. How many byte(s) does a char type take in C?
+
+1
+2
+3
+4
+Answer: A) 1
+
+Explanation:
+
+The char data type takes one byte in the memory.
+
+23. For which type, the format specifier "%i" is used?
+
+int
+char
+float
+double
+Answer: A) int
+
+Explanation:
+
+In C programming language, both of the format specifier %d and %i are used for int type, where %d specifies the type of variable as decimal and %i specifies the type as integer.
+
+24. What is the difference between float and double in C?
+
+both are used for the same purpose
+double can store just double value as compare to float value
+double is an enhanced version of float and was introduced in C99
+double is more precise than float and can store 64 bits
+Answer: D) double is more precise than float and can store 64 bits
+
+Explanation:
+
+In C programming language, the double is more precise than float and can store 64 bits.
+
+25. Which is the correct format specifier for double type value in C?
+
+%d
+%f
+%lf
+%LF
+Answer: C) %lf
+
+Explanation:
+
+The %lf is used to represent a double type value in C programming language.
+
+26. The short type represents ___.
+
+int
+float
+unsigned int
+short int
+Answer: C) unsigned int
+
+Explanation:
+
+The short type represents short int in C language.
+
+27. How many byte(s) does a short type take in C?
+
+1
+2
+3
+4
+Answer: B) 2
+
+Explanation:
+
+In C programming language, the short or short int takes 2 bytes (16 bits) in memory.
+
+28. What is the correct syntax to declare a variable in C?
+
+data_type variable_name;
+data_type as variable_name;
+variable_name data_type;
+variable_name as data_type;
+Answer: A) data_type variable_name;
+
+Explanation:
+
+In C language, the correct syntax to declare a variable is:
+
+data_type variable_name;
+Where, data_type is the type of data (such as int, char, float, etc) and variable_name is a valid identifier. For example: int age;
+
+29. How many types of qualifiers are there in C language?
+
+2
+3
+4
+5
+Answer: B) 3
+
+Explanation:
+
+There are 3 types of qualifiers in C language, they are:
+
+Size qualifiers
+Sign qualifiers
+Type qualifiers
+30. Which is/are the size qualifier(s) in C language?
+
+short
+long
+double
+Both A. and B
+Answer: D) Both A. and B.
+
+Explanation:
+
+The size qualifiers are short and long.
+
+31. Which is/are the sign qualifier(s) in C language?
+
+signed
+unsigned
+long
+Both A. and B
+Answer: D) Both A. and B.
+
+Explanation:
+
+The sign qualifiers are used to specify the signed nature of an integer type. The sign qualifiers are signed and unsigned.
+
+32. Which is/are the type qualifier(s) in C language?
+
+const
+volatile
+static
+Both A. and B
+Answer: D) Both A. and B.
+
+Explanation:
+
+The type qualifiers are const and "volatile".
+
+33. Which is correct with respect to the size of the data types in C?
+
+char > int > float
+char < int < float
+int < char < float
+int < chat > float
+Answer: B) char < int < float
+
+Explanation:
+
+The correct order of the data types as per the size is: char < int > float.
+
+34. Which operator is used to find the remainder of two numbers in C?
+
+/
+\
+%
+//
+Answer: C) %
+
+Explanation:
+
+The % operator is known as "Modulus Operator" and it is used to find the remainder of two numbers.
+
+35. Which of the following is not an arithmetic expression?
+
+x = 10
+x /= 10
+x %= 10
+x != 10
+Answer: D) x != 10
+
+Explanation:
+
+x != 10 is not a valid arithmetic expression.
+
+36. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    int x = 20;
+    x %= 3;
+    printf("%d",x);
+
+    return 0;
+}
+2
+2.5
+Error
+Warning
+Answer: A) 2
+
+Explanation:
+
+In the above code, the value of x is 20 and then in the next statement, the expression is x %= 3. That will be evaluate as:
+
+x %= 3;
+x = x % 3;
+x = 20 %3;
+x = 2
+37. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    float x = 21.0;
+    x %= 3.0;
+    printf("%f",x);
+
+    return 0;
+}
+7
+7.00
+7.000000
+Error
+Answer: D) Error
+
+Explanation:
+
+In the above code, we are performing modulus operation with float values. Modulus operator doesn't work with float and double operands. Thus, the output will be:
+
+error: invalid operands to binary % (have ‘float’ and ‘double’)
+38. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    float x = 23.456;
+    printf("%.2f",x);
+    return 0;
+}
+23.45600
+23.456
+23.45
+23.46
+Answer: D) 23.46
+
+Explanation:
+
+In the above code, the value of x is 23.456 and we are printing the value of x using the %.2f format specifier. %.2f rounds the value and prints the 2 digits after the decimal point.
+
+39. What will be the output of the following C code?
+
+#include <stdio.h>
+
+void main()
+{
+    int x = 10;
+    int y = x++ + 20;
+    
+    printf("%d,%d",x,y);
+    
+    return 0;
+}
+11,30
+11,31
+10,30
+10,31
+Answer: A) 11,30
+
+Explanation:
+
+In the above code, we are using a post-increment statement (x++), post-increment increases the value after evaluating the current expression. Thus, the value of y will be 30 and then x will be 11.
+
+40. Increment (++) and decrement (--) are the ___ operators in C?
+
+Unary
+Binary
+Ternary
+None of the above
+Answer: A) Unary
+
+Explanation:
+
+Increment (++) and decrement (--) are the unary operators. They need one operand to perform the operation.
+
+41. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    unsigned char c=290;
+    printf("%d",c);
+    return 0;
+}
+290
+256
+34
+Garbage
+Answer: C) 34
+
+Explanation:
+
+290 is beyond the range of unsigned char. Its corresponding value printed is: (290 % (UCHAR_MAX +1) where UCHAR_MAX represents highest (maximum) value of unsigned char type of variable. The value of UCHAR_MAX=255. Thus it prints 290 % (UCHAR_MAX+1)=34
+
+42. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    int a=0;
+    
+    a=5||2|1;
+    printf("%d",a);
+    
+    return 0;
+}
+1
+7
+0
+8
+Answer: A) 1
+
+Explanation:
+
+Bitwise OR operator (|) has precedence over logical OR operator (||). Thus the expression 5 || 2 | 1 is actually 5 || (2 |1).
+
+Now,
+
+2= 0000 0010
+1= 0000 0001
+2|1= 0000 0011=3
+5 || 3 returns true as both are nonzero
+Thus a=1
+43. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    int x =-100;
+    
+    -100;
+    printf("%d",x);
+    
+    return 0;
+}
+100
+-100
+0
+Error
+Answer: B) -100
+
+Explanation:
+
+The statement "-100;" is evaluated and this does not affect the value of "x".
+
+44. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    int a,b,c;
+    
+    a=0x10; b=010;
+    c=a+b;
+    
+    printf("%d",c);
+    
+    return 0;
+}
+20
+24
+Garbage
+Error
+Answer: B) 24
+
+Explanation:
+
+0x10 is hex value it's decimal value is 16 and 010 is an octal value it's decimal value is 8, hence answer will be 24.
+
+45. Which C keyword is used to extend the visibility of variables?
+
+extend
+extends
+extern
+auto
+Answer: C) extern
+
+Explanation:
+
+The "extern: keyword used to define an extern variable, that can be accessed in any source file. i.e., extern is used to extend the visibility of variables in C language.
+
+46. What is the name of "&" operator in C?
+
+Ampersand
+And
+Address of
+None of the above
+Answer: C) Address of
+
+Explanation:
+
+The "&" operator is known as 'Address Of' operator which is used to access the address of a variable.
+
+C Conditional Statements MCQs
+47. Which of the following are valid decision-making statements in C?
+
+if
+switch
+nested if
+All of these
+Answer: D) All of these
+
+Explanation:
+
+All valid decision-making statements in C program are:
+
+if statement
+if-else statement
+nested if statement
+switch statement
+nested switch statement
+48. Decision making in the C programming language is ___.
+
+Repeating the same statement multiple times
+Executing a set of statements based on some condition
+Providing a name of the block of code
+All of these
+Answer: B) Executing a set of statements based on some condition
+
+Explanation:
+
+Decision-making in C programming is executing a block of code to be executed by the program based on some condition.
+
+49. Which of the following is a true value in C programming?
+
+1
+"includehelp"
+! NULL
+All of these
+Answer: D) All of these
+
+Explanation:
+
+All non-zero and non-null values in C programming are true.
+
+50. Ternary operator in C programming is ___.
+
+if-else-if
+? :
+? ; ?
+None of these
+Answer: B) ? :
+
+Explanation:
+
+Ternary operator is used to execute expressions based on the given condition.
+
+51. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    printf((43 > 43) ? "value 1 is greater!" : "value 1 is not greater!");
+    return 0;
+}
+value 1 is not greater
+value 1 is greater
+Error
+None of these
+Answer: A) value 1 is not greater
+
+52. What is the correct syntax of if statement in C program?
+
+if(condition){
+}
+if(condition) :
+If { [condition] }
+None of these
+Answer: A)
+
+if(condition){
+}
+Explanation:
+
+The correct syntax of if statement in C program is:
+
+if(condition){
+    // code to be executed
+}
+53. The if statement is a conditional statement?
+
+True
+False
+Answer: A) True
+
+Explanation:
+
+The if statement is a conditional statement, i.e., the block is executed based on the given condition.
+
+54. When the condition of if statement is false, the flow of code will ___.
+
+go into the if block
+Exit the program
+Continue the code after skipping the if block
+None of these
+Answer: C) Continue the code after skipping the if block
+
+Explanation:
+
+When the condition of if statement is false, the code after the if block will be executed and the if block code is skipped.
+
+55. What will be the result of the following condition?
+
+(! (25 > 25))
+True
+False
+Error
+None of these
+Answer: A) True
+
+56. Which statement is required to execute a block of code when the condition is false?
+
+for
+if
+else
+All of these
+Answer: C) else
+
+Explanation:
+
+In the if-else block, the if block is executed when condition is True and else block is executed when condition is false.
+
+57. Can the else statement exist without the if statement in C?
+
+Yes
+No
+Answer: B) No
+
+Explanation:
+
+The else statement needs an if statement to execute the block.
+
+58. Which of these if...else block syntax is correct?
+
+if(condition){
+}
+else {
+}
+if(condition){
+}
+else(condition){
+}
+if{
+}
+else {
+}
+None of these
+Answer: A)
+
+if(condition){
+}
+else {
+}
+Explanation:
+
+The syntax of if...else block of code in C is:
+
+if(condition){
+    // true block
+}
+else {
+    // false block
+}
+59. The if-elseif-else statement in C programming is used?
+
+Create multiple conditional statements
+Return values
+Loop in if-else block
+All of these
+Answer: A) Create multiple conditional statements
+
+Explanation:
+
+The if-elseif-else statement is a statement which contains multiple statements based on conditions.
+
+60. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    int marks = 43;
+    
+    if (marks > 90)
+        printf("Grade : A ");
+    else if (marks > 75)
+        printf("Grade : B ");
+    else if (marks > 60)
+        printf("Grade : C ");
+    if (marks > 40)
+        printf("Grade : D ");
+    else
+        printf("Fail ");
+    return 0;
+}
+Grade : A
+Grade : B
+Grade : C
+Grade : D
+Answer: D) Grade : D
+
+61. How many expressions can be checked using if...elseif...else statement?
+
+100
+1
+Infinite
+None of these
+Answer: C) Infinite
+
+Explanation:
+
+You can execute any number of expressions using if-elseif-else statements, each elseif statement containing one condition.
+
+62. Is it possible to nest if-else statements in C programming?
+
+Yes
+No
+Answer: A) Yes
+
+Explanation:
+
+Nesting of if-else statements in C programming is possible.
+
+63. Which of the following syntax is correct for nested if-else statements?
+
+if(exp1){
+	if(exp2){
+	}
+}
+else {
+	if(exp3){
+	}
+}
+if(exp1){
+}else {
+}
+if{}
+None of these
+Answer: A)
+
+if(exp1){
+	if(exp2){
+	}
+}
+else {
+	if(exp3){
+	}
+}
+Explanation:
+
+The correct syntax for nested if-else statements in C programming is:
+
+if(exp1){
+	if(exp2){
+	}
+}
+else {
+	if(exp3){
+	}
+}
+64. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main(){
+    int n = 65;
+    if (n >= 75) {
+        if (n >= 95) {
+            printf("Excellent");
+        }
+        else
+            printf("Pass");
+    }
+    else
+        printf("Fail");
+}
+Excellent
+Pass
+Fail
+None of these
+Answer: C) Fail
+
+65. Multiple values of the same variable can be tested using ___.
+
+switch
+for
+Function
+All of these
+Answer: A) switch
+
+Explanation:
+
+The switch statement in C is used to test for multiple values of a variable.
+
+66. Without a break statement in switch what will happen?
+
+All cases will work properly
+Cases will fall through after matching the first check
+Switch will throw error
+All of these
+Answer: B) Cases will fall through after matching the first check
+
+Explanation:
+
+The break statement is used to terminate the current flow of code. And if it is not present in the switch statement, the cases will execute all cases after the matched case.
+
+67. When all cases are unmatched which case is matched in a switch statement?
+
+Default case
+First case
+No case
+None of these
+Answer: A) Default case
+
+Explanation:
+
+The default case of switch statement is executed when no other case is matched.
+
+68. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main(){
+    char grade = 'B';
+
+    switch (grade) {
+    case 'A':
+        printf("Excellent!\n");
+    case 'B':
+    case 'C':
+        printf("Well done\n");
+    case 'D':
+        printf("You passed\n");
+    case 'F':
+        printf("Better try again\n");
+        break;
+    default:
+        printf("Invalid grade\n");
+    }
+}
+Well done
+You passed
+Better try again
+All of these
+Answer: D) All of these
+
+Explanation:
+
+There is no break statement in case B, Case C, case D. the code will fall through executing all the print statements.
+
+4) C Control Statements MCQs
+69. Loops in C programming are used to ___.
+
+Execute a statement based on a condition
+Execute a block of code repeatedly
+Create a variable
+None of these
+Answer: B) Execute a block of code repeatedly
+
+Explanation:
+
+Loops in programming are used to execute a block of code repeatedly.
+
+70. Which of these is an exit-controlled loop?
+
+for
+if
+do...while
+while
+Answer: C) do...while
+
+Explanation:
+
+The do...while loop check for a condition after executing the loop block once. Hence, it is called an exit-controlled loop.
+
+71. Which statements are used to change the execution sequence?
+
+Loop control statement
+Function statement
+Conditional statement
+All of these
+Answer: A) Loop control statement
+
+Explanation:
+
+Loop control statements in C are used to change the execution sequence of the loop.
+
+72. What will happen if the loop condition will never become false?
+
+Program will throw an error
+Program will loop infinitely
+Loop will not run
+None of these
+Answer: B) Program will loop infinitely
+
+Explanation:
+
+An infinite loop in a program is a condition when the loop continues when the loop continues to run infinitely because the condition never becomes false.
+
+73. Which of these statements is correct in case of while loop in C?
+
+Executes the block till the condition become false
+Is an entry controlled loop
+There might be condition when the loop will not execute at all
+All of these
+Answer: D) All of these
+
+Explanation:
+
+All of the above statements are true in the case of while loop. While loop is an entry-controlled loop, the block executes when the condition becomes false.
+
+74. Which of the following is valid syntax for creating a while loop?
+
+while{
+} (condition)
+while(condition){
+}
+while{
+}
+All of these
+Answer: B)
+
+while(condition){
+}
+Explanation:
+
+The correct syntax for creating a while loop is:
+
+while(condition){
+}
+75. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main(){
+    int a = 11;
+    
+    while (a < 20) {
+        printf("%d  ", a);
+        a += 2;
+    }
+    
+    return 0;
+}
+11 13 15 17 19
+11 12 13 14 15 16 17 18 19 20
+11 13 15 17 19 21
+None of these
+Answer: A) 11 13 15 17 19
+
+76. Which loop executes the block a specific number of times?
+
+while loop
+for loop
+do...while loop
+All of these
+Answer: B) for loop
+
+Explanation:
+
+The for loop executes the block a specific number of times.
+
+77. Which of the following parts of the for loop can be eliminated in C?
+
+init
+condition
+increment
+All of these
+Answer: D) All of these
+
+Explanation:
+
+Syntax of for loop:
+
+for(init, condition, increment){
+}
+Inside the initialization statement (init), any of the three init or condition or increment can be eliminated i.e., all are optional. The loop can work without them also.
+
+78. When all parts of the for loop are eliminated, what will happen?
+
+For loop will not work
+Infinite for loop
+Error
+None of these
+Answer: B) Infinite for loop
+
+Explanation:
+
+On eliminating all the parts of a for loop an infinite for loop will run.
+
+79. When the condition of the do-while loop is false, how many times will it execute the code?
+
+0
+1
+Infinite
+All of these
+Answer: B) 1
+
+Explanation:
+
+The do-while loop is an exit-controlled loop, hence it will run at least once, even if the condition becomes false.
+
+80. Can a loop be nested in C programming?
+
+Yes
+No
+Answer: A) Yes
+
+Explanation:
+
+Yes, the nesting of loop is possible in C programming language.
+
+81. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main(){
+    int i, j;
+
+    for (i = 2; i < 10; i++) {
+        for (j = 2; j <= (i / j); j++)
+            if (!(i % j))
+                break;
+        if (j > (i / j))
+            printf("%d ", i);
+    }
+
+    return 0;
+}
+2 3 4 5 6 7 8 9
+3 5 7 9
+2 3 5 7
+2 3 5 7 11
+Answer: C) 2 3 5 7
+
+5) C Strings MCQs
+82. A string is terminated by ___.
+
+Newline ('\n')
+Null ('\0')
+Whitespace
+None of the above
+Answer: B) Null ('\0')
+
+Explanation:
+
+In C programming language, a string is a sequence of characters terminated with a null character \0.
+
+83. Consider the below statement, can we assign a string to variable like this:
+
+char c[100];
+c = "C programming";
+Yes
+No
+Answer: B) No
+
+Explanation:
+
+No, we cannot assign a string like this. Because string is a character array and array type is not assignable. To assign a string to the character array, we need to use strcpy() function.
+
+84. Which format specifier is used to read and print the string using printf() and scanf() in C?
+
+%c
+%str
+%p
+%s
+Answer: D) %s
+
+Explanation:
+
+The format specifier "%s" is used to read and print the string using printf() and scanf() in C.
+
+Example:
+
+#include <stdio.h>
+
+int main()
+{
+    char name[30];
+
+    printf("Input name: ");
+    scanf("%s", name);
+    printf("Given name is: %s", name);
+
+    return 0;
+}
+
+/*
+Output:
+Input name: Alvin
+Given name is: Alvin
+*/
+85. Which function is used to read a line of text including spaces from the user in C?
+
+scanf()
+getc()
+fgets()
+All of the above
+Answer: C) fgets()
+
+Explanation:
+
+In C programming language, the fgets() function can be used to read a line of text including spaces from the user.
+
+Syntax:
+
+fgets(variable_name, sizeof(size), stdin);
+86. Which function is used to concatenate two strings in C?
+
+concat()
+cat()
+stringcat()
+strcat()
+Answer: D) strcat()
+
+Explanation:
+
+In C programming language, the strcat() function is used to concatenate two strings.
+
+Syntax:
+
+strcat(s1, s2);
+This function concatenates string s2 onto the end of string s1.
+
+87. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    char str1[] = { 'H', 'e', 'l', 'l', 'o' };
+    char str2[] = "Hello";
+
+    printf("%ld,%ld", sizeof(str1), sizeof(str2));
+
+    return 0;
+}
+5,5
+6,6
+5,6
+None of the above
+Answer: C) 5,6
+
+Explanation:
+
+str1 is initialized with the characters and there are only 5 characters. Thus, the length of the str is 5. While, str2 is initialized with the string "Hello", when we initialized the string in this way - a null ('\0') character is inserted after the string. Thus, the length of str2 is 6.
+
+88. What will be the output of the following C code?
+
+#include <stdio.h>
+
+int main()
+{
+    char str1[] = "Hello";
+    char str2[10];
+
+    str2 = str1;
+
+    printf("%s,%s", str1, str2);
+
+    return 0;
+}
+Hello,
+Hello,Hello
+Hello,HelloHello
+Error
+Answer: D) Error
+
+Explanation:
+
+There will be a compilation error, because we cannot assign a string like this (str2 = str1). To resolve this issue, we have to use strcpy(str2,str1).
+
+The output will be:
+
+main.c:8:10: error: assignment to expression with array type
+    8     str2 = str1;
+                ^
+89. What will be the output of the following C code? (If the input is "Hello world")
+
+#include <stdio.h>
+
+int main()
+{
+    char str[30];
+
+    scanf("%s", str);
+    printf("%s", str);
+
+    return 0;
+}
+Hello world
+Hello
+Hello world\0
+Error
+Answer: B) Hello
+
+Explanation:
+
+When we read a string using the scanf() function, the input is terminated by the whitespace. Here, the input is "Hello world", so only "Hello" will be stored to str. Thus, the output will be "Hello".
+90. Which function is used to compare two strings in C?
+strcmp()
+strcmpi()
+compare()
+cmpi()
+Answer: A) strcmp()
+91. Which function is used to compare two strings with ignoring case in C?
+strcmp()
+strcmpi()
+compare()
+cmpi()
+Answer: B) strcmpi()
